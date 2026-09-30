@@ -1,4 +1,4 @@
-# Quick Reference (~350 tokens)
+# Quick Reference (~325 tokens)
 
 ## Session Start Checklist
 - [ ] CLAUDE.md loaded (auto)

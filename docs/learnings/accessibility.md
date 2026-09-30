@@ -1,4 +1,4 @@
-# Accessibility (~350 tokens)
+# Accessibility (~300 tokens)
 
 Target: WCAG 2.2 Level AA (W3C Recommendation, October 2023) — https://www.w3.org/TR/WCAG22/
 

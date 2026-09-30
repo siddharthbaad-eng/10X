@@ -1,4 +1,4 @@
-# Documentation Maintenance (~450 tokens)
+# Documentation Maintenance (~400 tokens)
 
 ## When to Update COMMON_MISTAKES.md
 

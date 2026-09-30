@@ -1,4 +1,4 @@
-# HTML & CSS Patterns (~450 tokens)
+# HTML & CSS Patterns (~400 tokens)
 
 Self-contained guide for markup and styling in this static site.
 

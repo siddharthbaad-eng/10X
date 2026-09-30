@@ -1,4 +1,4 @@
-# Performance (~250 tokens)
+# Performance (~200 tokens)
 
 The page is ~4 KB with no images, fonts, or scripts, so it is already fast. Guard that as it grows.
 

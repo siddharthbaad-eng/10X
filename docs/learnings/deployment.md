@@ -1,4 +1,4 @@
-# Deployment (~300 tokens)
+# Deployment (~250 tokens)
 
 Any static host works because there is no build step. Choose based on your needs, not the list order.
 

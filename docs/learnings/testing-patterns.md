@@ -1,4 +1,4 @@
-# Testing Patterns (~300 tokens)
+# Testing Patterns (~250 tokens)
 
 No test framework exists. Use this three-layer check on every change.
 
