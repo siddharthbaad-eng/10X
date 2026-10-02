@@ -24,6 +24,12 @@
       "sourceType": "github",
       "skillPath": "skills/pexo-agent/SKILL.md",
       "computedHash": "33d9b3df49c21145a0ce81cbae7c85f97111f2944503716067082ba5d5b9407c"
+    },
+    "pptx-generator": {
+      "source": "minimax-ai/skills",
+      "sourceType": "github",
+      "skillPath": "skills/pptx-generator/SKILL.md",
+      "computedHash": "956dcd3e9c6d0b4f174f65ae0046dc51217df2436a38aea08a91f75701db6b52"
     }
   }
 }
