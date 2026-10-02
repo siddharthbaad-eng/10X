@@ -37,6 +37,12 @@
       "skillPath": "skills/pexo-agent/SKILL.md",
       "computedHash": "33d9b3df49c21145a0ce81cbae7c85f97111f2944503716067082ba5d5b9407c"
     },
+    "ppt-visual": {
+      "source": "claude-office-skills/skills",
+      "sourceType": "github",
+      "skillPath": "ppt-visual/SKILL.md",
+      "computedHash": "1fae810acf92ef6c9ea08a3821fb0c317ea1e655d6673fd8e3cd015b6d8dc0a6"
+    },
     "pptx-generator": {
       "source": "minimax-ai/skills",
       "sourceType": "github",
