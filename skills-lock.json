@@ -19,6 +19,12 @@
       "skillPath": "skills/caveman/SKILL.md",
       "computedHash": "e9192d111aa44ea90bd214d5aa2b4f640195b0717faedd881e4b3927da9d88e2"
     },
+    "demand-gen": {
+      "source": "openclaudia/openclaudia-skills",
+      "sourceType": "github",
+      "skillPath": "skills/demand-gen/SKILL.md",
+      "computedHash": "854f1bba6bdd437512faea065f47c962c81208328b3f68326e895b6582703c2b"
+    },
     "excel-automation": {
       "source": "claude-office-skills/skills",
       "sourceType": "github",
