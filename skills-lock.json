@@ -1,6 +1,12 @@
 {
   "version": 1,
   "skills": {
+    "LinkedIn Automation": {
+      "source": "claude-office-skills/skills",
+      "sourceType": "github",
+      "skillPath": "linkedin-automation/SKILL.md",
+      "computedHash": "b70976d824d3b70a6bc52772d8c6f3368dfbc32f9024ac7d503598b4c0786d50"
+    },
     "ai-podcast-creation": {
       "source": "inference-sh/skills",
       "sourceType": "github",
