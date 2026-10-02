@@ -1,6 +1,12 @@
 {
   "version": 1,
   "skills": {
+    "ai-podcast-creation": {
+      "source": "inference-sh/skills",
+      "sourceType": "github",
+      "skillPath": "guides/content/ai-podcast-creation/SKILL.md",
+      "computedHash": "06416b8bbfacfad427a58d934c20644a4c58046b71bfdf21d469d0e1e097cb64"
+    },
     "ai-video-generation": {
       "source": "inference-sh/skills",
       "sourceType": "github",
