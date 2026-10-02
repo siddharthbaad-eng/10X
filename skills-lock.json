@@ -1,6 +1,12 @@
 {
   "version": 1,
   "skills": {
+    "ai-video-generation": {
+      "source": "inference-sh/skills",
+      "sourceType": "github",
+      "skillPath": "tools/video/ai-video-generation/SKILL.md",
+      "computedHash": "24b338eea9c7fad5215b732c8395ccd2144d5400371cc09585776184df80e711"
+    },
     "caveman": {
       "source": "juliusbrussee/caveman",
       "sourceType": "github",
