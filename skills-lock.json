@@ -31,6 +31,12 @@
       "skillPath": "skills/marketing-plan/SKILL.md",
       "computedHash": "be076e56f42ae98202d3d62a6fe5d229fcc54dc5dbad2cb2fe42253b56364a7c"
     },
+    "notebooklm": {
+      "source": "teng-lin/notebooklm-py",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "c333db7405fe7d5b7ce5849eb29132bbac253b34c5dbb4684e4baba873fd204d"
+    },
     "office-mcp": {
       "source": "claude-office-skills/skills",
       "sourceType": "github",
