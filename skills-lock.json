@@ -31,6 +31,12 @@
       "skillPath": "skills/demand-gen/SKILL.md",
       "computedHash": "854f1bba6bdd437512faea065f47c962c81208328b3f68326e895b6582703c2b"
     },
+    "email-best-practices": {
+      "source": "resend/email-best-practices",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "b236488b93e04b475def12bedbf8b1cfce348b88acf67d03341724032c87af8d"
+    },
     "excel-automation": {
       "source": "claude-office-skills/skills",
       "sourceType": "github",
