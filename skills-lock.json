@@ -43,6 +43,12 @@
       "skillPath": "invoice-generator/SKILL.md",
       "computedHash": "447d50f79ab763e1263ea27925a00c7fb5881f592d9ae8b73beb8c4eebd028e0"
     },
+    "landing-page-design": {
+      "source": "inference-sh/skills",
+      "sourceType": "github",
+      "skillPath": "guides/design/landing-page-design/SKILL.md",
+      "computedHash": "435af3919183e91ded83197f9238740593cac886f45067dc729d8a7095fbfb5a"
+    },
     "marketing-plan": {
       "source": "coreyhaines31/marketingskills",
       "sourceType": "github",
