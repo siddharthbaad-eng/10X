@@ -31,6 +31,12 @@
       "skillPath": "skills/marketing-plan/SKILL.md",
       "computedHash": "be076e56f42ae98202d3d62a6fe5d229fcc54dc5dbad2cb2fe42253b56364a7c"
     },
+    "office-mcp": {
+      "source": "claude-office-skills/skills",
+      "sourceType": "github",
+      "skillPath": "office-mcp/SKILL.md",
+      "computedHash": "50f55faef29ff1e3c30a7657121fbf01fcb39aad549d09745894530abe4de913"
+    },
     "pexo-agent": {
       "source": "pexoai/pexo-skills",
       "sourceType": "github",
