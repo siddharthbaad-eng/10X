@@ -72,6 +72,12 @@
       "sourceType": "github",
       "skillPath": "skills/video-editing/SKILL.md",
       "computedHash": "021c5b9207697949a1a40c936617793e3db0cb03904f3c3388e153337c290da1"
+    },
+    "videogencn": {
+      "source": "agents365-ai/365-skills",
+      "sourceType": "github",
+      "skillPath": "plugins/videogencn/skills/videogencn/SKILL.md",
+      "computedHash": "56f8797e80699274df1c49c5ae2eef1172b24bfd7c588fe824448ea769038cd9"
     }
   }
 }
